@@ -1,0 +1,15 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "estudando",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hugo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
